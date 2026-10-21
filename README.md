@@ -37,6 +37,12 @@ If the hashes match, choose More info, then Run anyway. Reading a raw disk needs
 
 Open an issue in this repository. Include your Windows version, the drive's name and size, and the text from the log window (or the **Copy diagnosis** button).
 
+## License
+
+Copyright (c) 2026 Barbellsoft. All rights reserved.
+
+Anyone, including companies and organizations, may use ReviveUSB free of charge on any number of computers. You may redistribute the original, unmodified `ReviveUSB.exe` free of charge, including on software download sites and on storage media. Don't modify it, wrap it in another installer or download manager, bundle it with other software or offers, or charge for it.
+
 ## Disclaimer
 
 ReviveUSB is provided as is, with no warranty of any kind. Recovery is never guaranteed, and the repair commands erase data permanently. You use the program at your own risk. The author is not liable for data loss or any other damage that results from using it. Keep backups of anything important.
